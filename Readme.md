@@ -1,0 +1,1 @@
+#### kconfig中增加了uart6，使能stm32f769i的串口6
